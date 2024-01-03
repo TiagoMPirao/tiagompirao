@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
-<h3 align="center">Hi, Welcome to my GitHub profile ! I'm passionate about technology and about the impact that gonna take in the future. Currently, I'm a Junior Developer, eager to learn. 💻</h3>
+<h3 align="center">Welcome to my GitHub profile ! I'm passionate about technology and about the impact that gonna take in the future. Currently, I'm a Junior Developer, eager to learn. 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagompirao&label=Profile%20views&color=0e75b6&style=flat" alt="tiagompirao" /> </p>
 
